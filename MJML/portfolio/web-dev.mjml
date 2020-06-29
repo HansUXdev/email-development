@@ -1,0 +1,49 @@
+  <mj-section background-color="#ffffff" padding-bottom="0px" padding-top="10px">
+    <!-- TITLE DIVIDER -->
+      <mj-column width="33%" padding-top="20px">
+        <mj-divider border-color="#F45E43" padding="10px 0px">
+        </mj-divider>
+      </mj-column>
+      <mj-column background-color="red" padding-left="0px" 
+        border-right="0"
+        width="33%">
+        <mj-text font-size="15px" color="#FFF" align="center">
+        WEB DEVELOPMENT
+        </mj-text>
+      </mj-column>
+      <mj-column width="33%" padding-top="20px">
+        <mj-divider border-color="#F45E43" padding="10px 0px">
+        </mj-divider>
+      </mj-column>
+    <!-- END TITLE -->
+    <mj-column width="100%">
+      <mj-text align="center" color="#000" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+        <p style="font-size: 14px;">
+        Whether building a website, email or app, it's important to understand marketing. Even a basic  understanding of marketing makes all the difference in terms of keeping readers entertained. 
+        </p>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+<!-- EMAIL Development Repo -->
+    <mj-section >
+
+
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://github.com/HansUXdev/email-development" style="color: #3498DB; text-decoration: none;">
+            WEB DEVELOPMENT
+            </a> </h3>
+          <p style="font-size: 14px">
+          This is a repository where I'm putting all the email work I can find.
+          I wish I could say I had better examples. But who know what's lurking inside here... 
+          <br><br>
+          Free Email Testing maybe? Maybe an email that's branded to be consistant with a website, including a background video? Who knows...
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://github.com/HansUXdev/email-development" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/Screen%20Shot%202020-06-29%20at%201.42.28%20PM.png"></mj-image>
+        <mj-image width="100px" href="https://github.com/HansUXdev/email-development" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/ACE-teaser.png"></mj-image>
+      </mj-column>
+    </mj-section>

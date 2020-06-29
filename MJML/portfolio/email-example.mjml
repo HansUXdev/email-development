@@ -1,0 +1,26 @@
+<mj-section background-color="#ffffff" padding-bottom="0px" padding-top="10px">
+  <!-- TITLE DIVIDER -->
+  <mj-column width="33%" padding-top="20px">
+    <mj-divider border-color="#F45E43" padding="10px 0px">
+    </mj-divider>
+  </mj-column>
+  <mj-column background-color="red" padding-left="0px" 
+    border-right="0"
+    width="33%">
+    <mj-text font-size="15px" color="#FFF" align="center">
+    WEB DEVELOPMENT
+    </mj-text>
+  </mj-column>
+  <mj-column width="33%" padding-top="20px">
+    <mj-divider border-color="#F45E43" padding="10px 0px">
+    </mj-divider>
+  </mj-column>
+  <!-- END TITLE -->
+  <mj-column width="100%">
+    <mj-text align="center" color="#000" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+      <p style="font-size: 14px;">
+      Whether building a website, email or app, it's important to understand marketing. Even a basic  understanding of marketing makes all the difference in terms of keeping readers entertained. 
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
