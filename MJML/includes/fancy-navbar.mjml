@@ -1,0 +1,12 @@
+    <mj-section background-color="#ffffff">
+      <mj-column>
+            <mj-image width="100px" src="https://acewebstatic.azureedge.net/images/layout/2017/dist/logo-ace-red.svg" />
+      </mj-column>
+      <mj-column>
+        <mj-navbar base-url="https://www.acefitness.org/" hamburger="hamburger" ico-color="#e53d46">
+            <mj-navbar-link href="/try-it-live" color="#e53d46">ABOUT</mj-navbar-link>
+            <mj-navbar-link href="/templates" color="#e53d46">CERTIFICATION</mj-navbar-link>
+            <mj-navbar-link href="/components" color="#e53d46">EDUCATION</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>

@@ -1,0 +1,17 @@
+<mj-section padding="20px 20px 0 20px" background-color="#FFFFFF">
+  <mj-column width="35%">
+  <mj-image width="100px" src="https://acewebstatic.azureedge.net/images/layout/2017/dist/logo-ace-red.svg" />
+  <!-- 
+    <mj-text align="left" font-size="20px" font-weight="500">// BR&amp;AND</mj-text>
+    -->
+  </mj-column>
+  <mj-column width="65%">
+    <mj-text align="right" font-size="11px">
+      <a href="#" style="color: #000000; text-decoration: none;">HOME</a>
+      &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
+      <a href="#" style="color: #000000; text-decoration: none;">CERTIFICATION</a>
+      &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
+      <a href="#" style="color: #000000; text-decoration: none;">EDUCATION</a>
+    </mj-text>
+  </mj-column>
+</mj-section>
