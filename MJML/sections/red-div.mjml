@@ -1,0 +1,23 @@
+<mj-section>
+  <mj-group>
+  <mj-column padding="0" vertical-align="middle">
+    <mj-divider border-color="#F45E43" padding="10px 0px"></mj-divider>
+  </mj-column>
+  <mj-column background-color="red" padding-left="0px" border-right="0" vertical-align="middle">
+    <mj-table font-size="20px" color="#FFF" align="center">
+      <tr>
+      <td style="width:20px">
+      img
+      </td>
+      <td>Hello World</td>
+      <td style="width:20px">
+      img
+      </td>
+      </tr>
+    </mj-table>
+  </mj-column>
+  <mj-column padding="0px" vertical-align="middle">
+    <mj-divider border-color="#F45E43" padding="10px 0px"></mj-divider>
+  </mj-column>
+    </mj-group>
+</mj-section>

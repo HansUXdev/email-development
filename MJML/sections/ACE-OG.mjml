@@ -1,0 +1,73 @@
+  <!-- Original Block -->
+  <!-- 
+     <mj-hero
+        mode="fixed-height"
+        height="169px"
+        background-width="600px"
+        background-height="469px"
+        background-url="https://acewebstatic.azureedge.net/v-637171850960000000/images/layout/2017/certification/certification-home-personal-trainer.jpg"
+        background-color="#2a3448"
+        padding="0px 0px">
+        </mj-hero>
+   -->
+  <!-- <mj-section padding="30px" background-color="#fff">
+    <mj-column width="60%">
+      <mj-text align="center" padding-bottom="20px" font-size="26px" line-height="30px" font-family="Alice, Helvetica, Arial, sans-serif">
+        Personal Trainer
+      </mj-text>
+      <mj-text align="center" padding="0 40px">
+        Move individuals and small groups toward better health with an ACE Personal Trainer Certification.
+      </mj-text>
+      <mj-image 
+      src="https://www.acefitness.org/images/layout/2017/dist/logo-ncca-white-sm.png" 
+      alt="" 
+      container-background-color="grey"
+      padding="30px 0 10px 0"
+      width="50px" 
+      align="center" 
+      border="none">
+      </mj-image>
+    </mj-column>
+    <mj-column width="40%" background-color="#FFFFFF">
+      <mj-image 
+      src="https://acewebstatic.azureedge.net/v-637171850960000000/images/layout/2017/certification/certification-home-personal-trainer.jpg" 
+      alt="" 
+      height="163.5px"
+      width="293.7px" 
+
+      align="center" 
+      border="none">
+      </mj-image>
+    </mj-column>
+  </mj-section>
+    <mj-section padding="30px" background-color="#fff">
+    <mj-column width="30%">
+      <mj-text align="center" padding-bottom="20px" font-size="26px" line-height="30px" font-family="Alice, Helvetica, Arial, sans-serif">
+        Personal Trainer
+      </mj-text>
+      <mj-text align="center" padding="0 40px">
+        Move individuals and small groups toward better health with an ACE Personal Trainer Certification.
+      </mj-text>
+    </mj-column>
+    <mj-column width="70%" background-color="#FFFFFF">
+
+
+          <mj-table font-size="20px" color="#FFF" align="center">
+            <tr><td style="width:20px">img</td>
+            <td>Hello World</td>
+            <td style="width:20px">img</td></tr>
+          </mj-table>
+      <mj-image 
+      src="https://www.acefitness.org/images/layout/2017/dist/logo-ncca-white-sm.png" 
+      alt="" 
+      container-background-color="grey"
+      padding="10px 0 10px 0"
+      width="50px" 
+      align="center" 
+      border="none">
+      </mj-image>
+
+      </mj-image>
+    </mj-column>
+  </mj-section> -->
+  <!-- END OG -->

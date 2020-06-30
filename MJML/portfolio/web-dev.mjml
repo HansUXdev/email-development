@@ -78,11 +78,6 @@
             <h3 style="font-weight: bold">Self Us Now</h3>
           </mj-text>
           <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/SUN.png"></mj-image>
-          <!-- RENEW -->
-          <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
-            <h3 style="font-weight: bold">RENEW Change</h3>
-          </mj-text>
-          <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/renewChange.png"></mj-image>
         </mj-column>
 
         <!-- BOLDING -->
@@ -91,22 +86,27 @@
             <h3 style="font-weight: bold">Wedding Site</h3>
           </mj-text>
           <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://github.com/HansUXdev/email-development/blob/master/assets/work/web/wedding-Front-End.gif?raw=true"></mj-image>
+          <!-- RENEW -->
+          <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
+            <h3 style="font-weight: bold">RENEW Change</h3>
+          </mj-text>
+          <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/renewChange.png"></mj-image>
         </mj-column>
 
 </mj-section>
   <!-- CENTER PIECE -->
     <mj-section background-color="#F5F5F5" >
       <mj-column>
-        <mj-image height="300px" width="377.5px" src="https://github.com/HansUXdev/email-development/blob/master/assets/work/web/wedding-Back-End.gif?raw=true"></mj-image>
+        <mj-image height="300px" width="377.5px" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/React-Native.gif?raw=true"></mj-image>
       </mj-column>
       <mj-column>
         <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
          <h3 style="font-weight: bold">
-              Wedding Site
+              REACT
           </h3>
         </mj-text>
         <mj-text color="#525252">
-            This isn't much to look at and that's not the point. The back-end was the focus of this project. Every the admin dashboard was built entirely on foundation sites combined with building blocks and zero custom css. From there I just add forms some AJAX and focused on building out the mognoose schemas for every. 
+            I've built a few things in react such as a reacti-native todo app, a site converted from jQuery to React and I look forward to doing more with Ionic, Gatsby, etc.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -115,7 +115,7 @@
 
 
 <!-- BACK-END EXAMPLES -->
-<mj-section>
+<mj-section padding-top="10px">
     <!-- TITLE DIVIDER -->
       <mj-column width="33%" padding="20px 0">
         <mj-divider border-color="#9bb6ff" padding="5px 0px">

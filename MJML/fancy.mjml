@@ -1,0 +1,43 @@
+<mjml>
+  <mj-head>
+    <mj-title>Say hello to card</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Montserrat, Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head> 
+  <mj-body background-color="#F2F2F2">
+   <mj-wrapper>
+
+  <!-- PRE TEXT -->
+    <mj-section padding="10px 0 20px 0">
+      <mj-column>
+        <mj-text align="center" color="#9B9B9B" font-size="11px">
+        Writing A Good Headline For Your Advertisement</mj-text>
+      </mj-column> 
+    </mj-section>
+  <!-- NAVBAR -->
+    <mj-include path="./includes/fancy-navbar.mjml" />
+
+  <!-- GIF VIDEO BG -->
+  <mj-include path="./sections/ACE-BGgif.mjml" />
+  <!-- END GIF -->
+        
+  <!-- fitness-->
+  <mj-include path="./includes/getCertified.mjml" />
+  <!--  -->
+  <mj-include path="./includes/4xPromo.mjml" />
+
+  <!-- Specialist -->
+    <mj-include path="./sections/ACE-Specialist.mjml" />
+  <!-- Slider -->
+    <mj-include path="./sections/ACE-Slider.mjml" />
+  <!-- Get Certified -->
+  <!-- Footer -->
+    <mj-include path="./sections/ACE-Footer.mjml" />
+
+  </mj-wrapper>
+  </mj-body>
+</mjml>

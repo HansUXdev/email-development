@@ -1,0 +1,18 @@
+ <mj-section background-color="#02263c" padding-bottom="0px" padding-top="10px">
+  <!--  -->
+  <mj-include path="../includes/red-divider.mjml" />
+  <!-- END RED -->
+
+  <!-- Width is set to 100% to avoid conflict with red divider -->
+  <mj-column width="100%"> 
+    <mj-text align="center" color="#f2b645" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+      <p style="font-size: 27px;"> 
+      Specialist Programs!
+      </p>
+      <p style="font-size: 12px; color:#ffffff">
+      Movement is universal, and often times personal. In many cases, movement requires a unique and individual approach. ACE’s specialist programs offer health and fitness professionals as well as healthcare providers the opportunity to move special populations across a variety of disciplines through a focused approach.
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+   

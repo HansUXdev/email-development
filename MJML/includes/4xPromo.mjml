@@ -1,0 +1,89 @@
+
+
+    <!-- TXT-RIGHT -->
+      <mj-section background-url="https://acewebstatic.azureedge.net/v-637171850960000000/images/layout/2017/certification/certification-home-personal-trainer.jpg" vertical-align="middle" background-size="cover" padding="30px" background-repeat="no-repeat">
+        <mj-column vertical-align="middle" width="60%">
+          <!-- <mj-text align="center" padding="40px 30px" color="#FFFFFF" font-size="42px" line-height="48px" font-family="Alice, Helvetica, Arial, sans-serif">
+          Villa Semperin
+          </mj-text> -->
+        </mj-column>
+        <mj-column vertical-align="middle" width="40%" background-color="#FFFFFF">
+          <!-- <mj-image src="http://nimus.de/share/tpl-realestate/box-top.png" width="220px" alt="" align="center" border="none"></mj-image> -->
+          <mj-text align="center" padding="20px 20px 0 20px" color="#1D83A8" font-size="26px" line-height="30px" font-family="Alice, Helvetica, Arial, sans-serif">
+        Personal Trainer
+          </mj-text>
+          
+          <mj-text align="center" padding="0 20px">
+          Move individuals and small groups toward better health with an ACE Personal Trainer Certification.
+          </mj-text>
+          <mj-button background-color="#F44E3C" color="white" padding="20px 20px 30px 20px" border-radius="20px">
+          view details
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    
+    <!-- TXT-LEFT -->
+      <mj-section 
+      background-repeat="no-repeat"
+      background-url="https://acewebstatic.azureedge.net/v-637171850960000000/images/layout/2017/certification/certification-home-group-fitness-instructor.jpg" vertical-align="middle" background-size="cover" padding="30px">
+        <mj-column vertical-align="middle" width="40%" background-color="#FFFFFF">
+          <!-- <mj-image src="http://nimus.de/share/tpl-realestate/box-top.png" width="220px" alt="" align="center" border="none"></mj-image> -->
+          <mj-text align="center" padding="20px 20px 0 20px" color="#1D83A8" font-size="26px" line-height="30px" font-family="Alice, Helvetica, Arial, sans-serif">
+          Group Fitness Instructor
+          </mj-text>
+          <
+          <mj-text align="center" padding="0 20px">
+          Move the masses toward better health with an ACE Group Fitness Instructor Certification.
+          </mj-text>
+          <mj-button background-color="#F44E3C" color="white" padding="20px 20px 30px 20px" border-radius="20px">
+          view details
+          </mj-button>
+        </mj-column>
+        <mj-column vertical-align="middle" width="60%">
+          <!-- <mj-text align="center" padding="40px 30px" color="#FFFFFF" font-size="42px" line-height="48px" font-family="Alice, Helvetica, Arial, sans-serif">Window House 23</mj-text> -->
+        </mj-column>
+      </mj-section>
+    <!-- TXT-RIGHT -->
+      <mj-section
+      background-size="cover" 
+      background-repeat="no-repeat"
+      background-url="https://acewebstatic.azureedge.net/v-637171850960000000/images/layout/2017/certification/certification-home-medical-exercise-specialist.jpg" vertical-align="middle" 
+      padding="30px">
+      <mj-column vertical-align="middle" width="60%">
+        <!-- <mj-text align="center" padding="40px 30px" color="#FFFFFF" font-size="42px" line-height="48px" font-family="Alice, Helvetica, Arial, sans-serif">
+        Villa Semperin
+        </mj-text> -->
+      </mj-column>
+      <mj-column vertical-align="middle" width="40%" background-color="#FFFFFF">
+        <!-- <mj-image src="http://nimus.de/share/tpl-realestate/box-top.png" width="220px" alt="" align="center" border="none"></mj-image> -->
+        <mj-text align="center" padding="20px 20px 0 20px" color="#1D83A8" font-size="26px" line-height="30px" font-family="Alice, Helvetica, Arial, sans-serif">
+        Medical Exercise Specialist
+        </mj-text>
+        
+        <mj-text align="center" padding="0 20px">
+        Move individuals to prevent and manage health issues as an ACE Certified Medical Exercise Specialist.
+        </mj-text>
+        <mj-button background-color="#F44E3C" color="white" padding="20px 20px 30px 20px" border-radius="20px">
+        view details
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- TXT-LEFT -->
+      <mj-section background-url="https://acewebstatic.azureedge.net/v-637171850960000000/images/layout/2017/certification/certification-home-health-coach.jpg" vertical-align="middle" background-size="cover" padding="30px" background-repeat="no-repeat">
+        <mj-column vertical-align="middle" width="40%" background-color="#FFFFFF">
+          <!-- <mj-image src="http://nimus.de/share/tpl-realestate/box-top.png" width="220px" alt="" align="center" border="none"></mj-image> -->
+          <mj-text align="center" padding="20px 20px 0 20px" color="#1D83A8" font-size="26px" line-height="30px" font-family="Alice, Helvetica, Arial, sans-serif">
+          Certified Health Coach
+          </mj-text> 
+          
+          <mj-text align="center" padding="0 20px">
+          Move people toward sustainable lifestyle changes by applying behavior-change principles and strategies as an ACE Certified Health Coach.
+          </mj-text>
+          <mj-button background-color="#F44E3C" color="white" padding="20px 20px 30px 20px" border-radius="20px">
+          view details
+          </mj-button>
+        </mj-column>
+        <mj-column vertical-align="middle" width="60%">
+          <!-- <mj-text align="center" padding="40px 30px" color="#FFFFFF" font-size="42px" line-height="48px" font-family="Alice, Helvetica, Arial, sans-serif">Window House 23</mj-text> -->
+        </mj-column>
+      </mj-section>

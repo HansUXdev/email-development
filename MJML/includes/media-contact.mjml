@@ -1,0 +1,25 @@
+    <!-- Media Block -->
+    <mj-section>
+      <mj-group>
+
+      <!-- medium -->
+        <mj-column>
+          <mj-image alt="ugg facebook" href="http://www.medium.com/@HansOnConsult" width="40px" src="https://cdn.recast.ai/newsletter/medium.png"></mj-image>
+        </mj-column>
+      <!-- PHONE -->
+        <mj-column width="33%">
+          <mj-text padding="7px 0" text-transform="uppercase" font-family="Open Sans, Arial, sans-serif" font-size="11px" text-decoration="none" align="center">
+            <a href="tel:602-478-9329"
+            style="text-decoration:none; color:#111111" class="apple-link-black">
+            <strong>CALL ME</strong>
+                <br />
+                1 (602) 478-9329
+              </a></mj-text>
+        </mj-column>
+        <!-- Twitter -->
+        <mj-column width="33%">
+          <mj-image alt="ugg twitter" href="http://www.twitter.com/@HansOnConsult" width="40px" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-twitter.gif"></mj-image>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>

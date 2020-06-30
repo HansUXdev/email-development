@@ -118,6 +118,8 @@
         <mj-image alt="Find a store" href="http://www.ugg.com/" width="168px" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/find-a-store.gif"></mj-image>
       </mj-column>
     </mj-section>
+
+    <!-- 3-col-btn -->
     <mj-section padding="10px 0">
       <mj-column>
         <mj-button padding="5px 2px" mj-class="open-sans-button" border-radius="0px" href="http://www.ugg.com/women" width="100%"><span style="letter-spacing: 2px;">women</span></mj-button>
@@ -129,11 +131,13 @@
         <mj-button padding="5px 2px" mj-class="open-sans-button" border-radius="0px" href="http://www.ugg.com/kids" width="100%"><span style="letter-spacing: 2px;">kids</span></mj-button>
       </mj-column>
     </mj-section>
+
     <mj-section>
       <mj-column>
         <mj-text font-family="Open Sans, Arial" font-size="16px" align="center" text-transform="uppercase" font-weight="bold" letter-spacing="2px">free shipping. free returns *</mj-text>
       </mj-column>
     </mj-section>
+    <!-- Media Block -->
     <mj-section>
       <mj-group>
         <mj-column>
@@ -159,6 +163,7 @@
         </mj-column>
       </mj-group>
     </mj-section>
+    <!-- Contact -->
     <mj-section padding="10px 45px">
       <mj-group>
         <mj-column width="27%">
@@ -177,6 +182,7 @@
         </mj-column>
       </mj-group>
     </mj-section>
+
     <mj-section padding="0px">
       <mj-column>
         <mj-text mj-class="footer-text" align="center" padding="0 10px">

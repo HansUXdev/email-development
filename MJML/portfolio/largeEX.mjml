@@ -1,0 +1,13 @@
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="http://www.forbes.com/sites/quora/2016/09/23/what-are-the-differences-between-ai-machine-learning-nlp-and-deep-learning/#4f981bbb36f0" style="color: #3498DB; text-decoration: none;">
+            What are the differences between AI, machine learning, NLP, and deep learning?
+            </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" href="http://www.forbes.com/sites/quora/2016/09/23/what-are-the-differences-between-ai-machine-learning-nlp-and-deep-learning/#4f981bbb36f0" src="https://cdn.recast.ai/newsletter/186.jpg"></mj-image>
+        <mj-text>
+          <p style="font-size: 14px;"> So many big words in a booming market, let's take a step back and redefine which is what, and which does what. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>

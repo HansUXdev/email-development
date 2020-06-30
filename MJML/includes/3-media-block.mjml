@@ -1,0 +1,26 @@
+    <!-- Media Block -->
+    <mj-section>
+      <mj-group>
+        <mj-column>
+          <mj-image alt="ugg facebook" href="http://www.ugg.com/" width="40px" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-facebook.gif"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image alt="ugg instagram" href="http://www.ugg.com/" width="40px" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-instagram.gif"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image alt="ugg snapchat" href="http://www.ugg.com/" width="40px" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-snapchat.gif"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image alt="ugg pinterest" href="http://www.ugg.com/" width="40px" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-pinterest.gif"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image alt="ugg twitter" href="http://www.ugg.com/" width="40px" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-twitter.gif"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image alt="ugg youtube" href="http://www.ugg.com/" width="40px" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-youtube.gif"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image alt="ugg blog" href="http://www.ugg.com/" width="40px" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-blog.gif"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>

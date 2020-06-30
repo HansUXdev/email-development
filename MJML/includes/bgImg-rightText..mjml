@@ -1,0 +1,13 @@
+<!-- BgIMG-RightTextSolid -->
+<mj-section background-url="http://nimus.de/share/tpl-realestate/img-1.png" vertical-align="middle" background-size="cover" padding="30px" background-repeat="no-repeat">
+  <mj-column vertical-align="middle" width="60%">
+    <mj-text align="center" padding="40px 30px" color="#FFFFFF" font-size="42px" line-height="48px" font-family="Alice, Helvetica, Arial, sans-serif">Villa Semperin</mj-text>
+  </mj-column>
+  <mj-column vertical-align="middle" width="40%" background-color="#FFFFFF">
+    <mj-image src="http://nimus.de/share/tpl-realestate/box-top.png" width="220px" alt="" align="center" border="none"></mj-image>
+    <mj-text align="center" padding="20px 20px 0 20px" color="#1D83A8" font-size="26px" line-height="30px" font-family="Alice, Helvetica, Arial, sans-serif">– first offer –</mj-text>
+    <mj-text align="center" padding="10px 20px" font-size="22px" line-height="30px">340,000 $</mj-text>
+    <mj-text align="center" padding="0 20px">Nascetur ridiculus mus. Donec quam felis, ultricies nec</mj-text>
+    <mj-button background-color="#F44E3C" color="white" padding="20px 20px 30px 20px" border-radius="20px">view details</mj-button>
+  </mj-column>
+</mj-section>

@@ -1,0 +1,15 @@
+  <mj-column width="33%" padding-top="20px">
+    <mj-divider border-color="#F45E43" padding="10px 0px">
+    </mj-divider>
+  </mj-column>
+  <mj-column background-color="red" padding-left="0px" 
+    border-right="0"
+    width="33%">
+    <mj-text font-size="15px" color="#FFF" align="center">
+    CONTINUING EDUCATION
+    </mj-text>
+  </mj-column>
+  <mj-column width="33%" padding-top="20px">
+    <mj-divider border-color="#F45E43" padding="10px 0px">
+    </mj-divider>
+  </mj-column>

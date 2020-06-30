@@ -9,49 +9,59 @@
     </mj-attributes>
   </mj-head> 
   <mj-body background-color="#F2F2F2">
- 
-    <mj-section padding="10px 0 20px 0">
-      <mj-column>
-        <mj-text align="center" color="#9B9B9B" font-size="11px">
-        Writing A Good Headline For Your Advertisement</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-include path="./includes/navbar.mjml" />
+    
+    <mj-wrapper> 
 
-     
-    <mj-section padding="20px 20px 0 20px" background-color="#FFFFFF">
-      <mj-column>
-        <mj-text align="center" font-weight="300" padding="30px 40px 10px 40px" font-size="32px" line-height="40x" color="#5FA91D">Free Advertising For Your Online Business.</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="10px 20px" background-color="#FFFFFF">
-      <mj-column>
-        <mj-divider width="30px" border-width="3px" border-color="#9B9B9B"></mj-divider>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="0 20px 20px 20px" background-color="#FFFFFF">
-      <mj-column width="80%">
-        <mj-text align="center" padding-top="10px" font-weight="500" padding="0px">A Right Media Mix Can Make The Difference.</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-url="http://nimus.de/share/tpl-card/bg.jpg" vertical-align="middle" background-size="cover" background-repeat="no-repeat">
-      <mj-column width="100%">
-        <mj-image src="http://nimus.de/share/tpl-card/lineshadow.png" alt="" align="center" border="none" padding="0px"></mj-image>
-        <mj-text align="center" padding="50px 40px 0 40px" font-weight="300">Marketers/advertisers usually focus their efforts on the people responsible for making the purchase. In many cases, this is an effective approach but in other cases it can make for a totally useless marketing campaign.</mj-text>
-        <mj-button align="center"
-          background-color="#5FA91D" color="#FFFFFF" border-radius="2px" href="#" inner-padding="15px 30px" padding-bottom="100px" padding-top="20">CALL TO ACTION</mj-button>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="50px 0 0 0" background-color="#FFFFFF">
-      <mj-column>
-        <mj-image src="http://nimus.de/share/tpl-card/bottom.png" alt="bottom border" align="center" border="none" padding="0px"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="10px 0 20px 0">
-      <mj-column>
-        <mj-text align="center" color="#9B9B9B" font-size="11px"><a href="#" style="color: #9B9B9B;">Unsubscribe</a> from this newsletter<br>52 Edison Court Suite 259 / East Aidabury / Cambodi<br> <a href="#" style="color: #9B9B9B; text-decoration:none;">Made by svenhaustein.de</a></mj-text>
-      </mj-column>
-    </mj-section>
+      <!-- Subject Header -->
+      <mj-section padding="10px 0 20px 0">
+        <mj-column>
+          <mj-text align="center" color="#9B9B9B" font-size="11px">
+          Writing A Good Headline For Your Advertisement</mj-text>
+        </mj-column> 
+      </mj-section>
+      <!-- NAVBAR -->
+      <mj-include path="./includes/navbar.mjml" />
+      <!-- GIF VIDEO BG -->
+      <mj-include path="./sections/ACE-BGgif.mjml" />
+      <!-- END GIF -->
+        
 
+    <!-- Get Certified -->
+      <mj-section background-color="#02263c" padding-bottom="0px" padding-top="0">
+        <mj-column> 
+          <mj-text align="center" color="#f2b645" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+            <p style="font-size: 27px;"> GET CERTIFIED FROM HOME!</p>
+            <p style="font-size: 12px; color:#ffffff">For a limited time, you can now take the ACE Certification Exam from the comfort of your home.</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    <!-- 4x Promo Block -->
+    <mj-include path="./includes/4xPromo.mjml" />
+    
+    <!-- Promo -->
+      <mj-section background-color="#4abfad"  padding-left="0px" padding-right="0px" padding-top="0px" padding-bottom="0px">
+        <mj-column>
+          <mj-image width="86px" src="https://acewebcontent.azureedge.net/assets/marquees/2020/06-june/pubs/spectacular/leaderboard-icon.png" href="http://www.facebook.com/arturia2" alt=""></mj-image>
+        </mj-column>
+        <mj-column >
+          <mj-text align="center" color="#02263c" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+            <p style="font-size: 20px;"> 
+            Group FitnessInstructor
+            </p>
+            <p style="font-size: 12px; color:#02263c">
+            Study Programs
+            </p>
+          </mj-text>
+          <!-- <mj-image width="86px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/Soundcloud.png" href="http://soundcloud.com/arturia-official" alt=""></mj-image> -->
+        </mj-column>
+        <mj-column>
+          <mj-image width="86px" src="https://acewebcontent.azureedge.net/assets/marquees/2020/06-june/pubs/spectacular/leaderboard-expiration-2.png" href="http://twitter.com/arturiaofficial" alt=""></mj-image>
+        </mj-column>
+      </mj-section>
+    <!-- END PROMO -->
+    <!-- Footer -->
+        <mj-include path="./sections/ACE-Footer.mjml" />
+  </mj-wrapper>
   </mj-body>
 </mjml>
