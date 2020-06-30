@@ -18,23 +18,37 @@
     <!-- END TITLE -->
     <mj-column width="100%">
       <mj-text align="center" color="#000" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
-        <p style="font-size: 14px;">
-        HTML and CSS aren't my only tools. I'm vary well versed in JavaScript, SCSS, PHP, Docker, AWS, among others.
+        <p style="font-size: 18px;"> HTML and CSS aren't my only tools. </p>
+        <p>
+        I'm vary well versed in JavaScript, SCSS, PHP, Docker, AWS, among others.
         </p>
       </mj-text>
     </mj-column>
   </mj-section>
 
-<!-- Items-->
-    <mj-section >
 
 <!-- Front-End -->
+<mj-section >
+    <!-- TITLE DIVIDER -->
+      <mj-column width="33%" padding="20px 0">
+        <mj-divider border-color="#9bb6ff" padding="5px 0px">
+        </mj-divider>
+      </mj-column>
+      <mj-column background-color="#9bb6ff" padding-left="0px" 
+        border-right="0"
+        width="33%">
+        <mj-text font-size="15px" color="#FFF" align="center">
+        FRONT-END
+        </mj-text>
+      </mj-column>
+      <mj-column width="33%" padding-top="20px">
+        <mj-divider border-color="#9bb6ff" padding="5px 0px">
+        </mj-divider>
+      </mj-column>
+    <!-- END TITLE -->
       <mj-column width="100%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://github.com/HansUXdev/email-development" style="color: #3498DB; text-decoration: none;">
-            Front-End
-            </a> </h3>
-          <p style="font-size: 14px">
+          <p style="font-size: 18px">
           This is a repository where I'm putting all the email work I can find.
           I wish I could say I had better examples. But who know what's lurking inside here... 
           <br><br>
@@ -43,63 +57,148 @@
         </mj-text>
       </mj-column>
 
+  <!-- FRONT-END EXAMPLES -->
+        <mj-column width="25%" >
+          <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
+            <h3 style="font-weight: bold">Reginald Bolding</h3>
+          </mj-text>
+          <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/reginaldbolding.png"></mj-image>
+        </mj-column>
+        <!-- ONE AZ -->
+        <mj-column width="25%" >
+          <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
+            <h3 style="font-weight: bold">One Arizona</h3>
+          </mj-text>
+          <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/OneAZ.png"></mj-image>
+        </mj-column>
+
+        <mj-column width="25%" >
+          <!-- SUN -->
+          <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
+            <h3 style="font-weight: bold">Self Us Now</h3>
+          </mj-text>
+          <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/SUN.png"></mj-image>
+          <!-- RENEW -->
+          <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
+            <h3 style="font-weight: bold">RENEW Change</h3>
+          </mj-text>
+          <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/renewChange.png"></mj-image>
+        </mj-column>
+
+        <!-- BOLDING -->
+        <mj-column width="25%" >
+          <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
+            <h3 style="font-weight: bold">Wedding Site</h3>
+          </mj-text>
+          <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://github.com/HansUXdev/email-development/blob/master/assets/work/web/wedding-Front-End.gif?raw=true"></mj-image>
+        </mj-column>
+
+</mj-section>
 <!--  -->
-      <mj-column width="25%" >
-        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
-          <h3 style="font-weight: bold">Reginald Bolding</h3>
-        </mj-text>
-        <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/reginaldbolding.png"></mj-image>
-      </mj-column>
-      <!-- ONE AZ -->
-      <mj-column width="25%" >
-        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
-          <h3 style="font-weight: bold">One Arizona</h3>
-        </mj-text>
-        <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/OneAZ.png"></mj-image>
-      </mj-column>
 
-      <mj-column width="25%" >
-        <!-- SUN -->
-        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
-          <h3 style="font-weight: bold">Self Us Now</h3>
-        </mj-text>
-        <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/SUN.png"></mj-image>
-        <!-- RENEW -->
-        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
-          <h3 style="font-weight: bold">RENEW Change</h3>
-        </mj-text>
-        <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/renewChange.png"></mj-image>
+
+<!-- BACK-END EXAMPLES -->
+<mj-section>
+    <!-- TITLE DIVIDER -->
+      <mj-column width="33%" padding="20px 0">
+        <mj-divider border-color="#9bb6ff" padding="5px 0px">
+        </mj-divider>
       </mj-column>
-
-      <!-- BOLDING -->
-      <mj-column width="25%" >
-        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
-          <h3 style="font-weight: bold">Wedding Site</h3>
+      <mj-column background-color="#9bb6ff" padding-left="0px" 
+        border-right="0"
+        width="33%">
+        <mj-text font-size="15px" color="#FFF" align="center">
+        BACK-END
         </mj-text>
-        <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://github.com/HansUXdev/email-development/blob/master/assets/work/web/wedding-Front-End.gif?raw=true"></mj-image>
+      </mj-column>
+      <mj-column width="33%" padding-top="20px">
+        <mj-divider border-color="#9bb6ff" padding="5px 0px">
+        </mj-divider>
+      </mj-column>
+    <!-- END TITLE -->
+      <mj-column width="100%">
+        <mj-text> 
+          <p style="font-size: 14px">
+          Back-end is a bit ambiguous. I use it to describe basically anything that doesn't have a visual-end. Could be a database or could be a server. I've worked with WordPress, Laravel and cakePhp on the LAMP side of things and to a less extent on the MERN / NERD stack (Mongo, MySql, Node, Express, React, Docker). 
+          </p>
+        </mj-text>
+      </mj-column>
+  <!-- BACK-END EXAMPLES -->
+        <mj-column width="25%" >
+          <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
+            <h3 style="font-weight: bold">Custom CLI's</h3>
+          </mj-text>
+          <mj-image width="100px" href="/" src="https://camo.githubusercontent.com/d730f8043f3b702a6d0118f36b3038018186d115/687474703a2f2f672e7265636f726469742e636f2f71573841766d577459722e676966"></mj-image>
+        </mj-column>
+        <!-- ONE AZ -->
+        <mj-column width="25%" >
+          <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
+            <h3 style="font-weight: bold">Bulk Security Site Checks </h3>
+          </mj-text>
+          <mj-image width="100px" href="https://github.com/HansUXdev/hosting-stuff" src="https://camo.githubusercontent.com/f7d55d0eb686c050623b58ff5ab2775fc0acbbcd/687474703a2f2f672e7265636f726469742e636f2f3077565a4153544963722e676966"></mj-image>
+        </mj-column>
 
-        
+        <mj-column width="25%" >
+          <!-- SUN -->
+          <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
+            <h3 style="font-weight: bold">Self Us Now</h3>
+          </mj-text>
+          <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/SUN.png"></mj-image>
+          <!-- RENEW -->
+          <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
+            <h3 style="font-weight: bold">RENEW Change</h3>
+          </mj-text>
+          <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/renewChange.png"></mj-image>
+        </mj-column>
+
+        <!-- BOLDING -->
+        <mj-column width="25%" >
+          <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
+            <h3 style="font-weight: bold">Wedding Site</h3>
+          </mj-text>
+          <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://github.com/HansUXdev/email-development/blob/master/assets/work/web/wedding-Front-End.gif?raw=true"></mj-image>
+        </mj-column>
+  <!--  -->
+</mj-section>
+<!-- END BACK END -->
+  <!-- CENTER PIECE -->
+    <!-- INKY ORBIT -->
+    <mj-section background-color="#F5F5F5" >
+      <mj-column>
+        <mj-image height="300px" width="377.5px" src="https://github.com/HansUXdev/email-development/blob/master/assets/work/web/wedding-Back-End.gif?raw=true"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
+         <h3 style="font-weight: bold">
+              Wedding Site
+          </h3>
+        </mj-text>
+        <mj-text color="#525252">
+            This isn't much to look at and that's not the point. The back-end was the focus of this project. Every the admin dashboard was built entirely on foundation sites combined with building blocks and zero custom css. From there I just add forms some AJAX and focused on building out the mognoose schemas for every. 
+        </mj-text>
       </mj-column>
     </mj-section>
-<!--  -->
-
-
-<!-- Back End -->
     <mj-section>
       <mj-column width="75%">
-        <mj-text>
+        <mj-text> 
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> 
             <a href="https://www.cfss.com/" style="color: #3498DB; text-decoration: none">
               Back-End
             </a> 
           </h3>
           <p style="font-size: 14px">
-          I worked both on the front-end and backend with cakePhp 2 and smarty templates to built the psychiatric evaluation for printable pdf's.
-          This meant I had to code my own css grid from scratch that worked both on the web and stayed consistant when you printed the document.
+          Back-end is a bit ambiguous. I use it to describe basically anything that doesn't have a visual-end. Could be a database or could be a server. I've worked with WordPress, Laravel and cakePhp on the LAMP side of things and to a less extent on the MERN / NERD stack (Mongo, MySql, Node, Express, React, Docker). 
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://cdn.recast.ai/newsletter/183.png"></mj-image>
+        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
+          <h3 style="font-weight: bold">Wedding Site</h3>
+        </mj-text>
+        <mj-image width="100px" href="/" src="https://github.com/HansUXdev/email-development/blob/master/assets/work/web/wedding-Back-End.gif?raw=true"></mj-image>
       </mj-column>
     </mj-section>
+
+
+  <!-- I worked both on the front-end and backend with cakePhp 2 and smarty templates to built the psychiatric evaluation for printable pdf's.
+          This meant I had to code my own css grid from scratch that worked both on the web and stayed consistant when you printed the document. -->

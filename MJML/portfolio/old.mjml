@@ -1,0 +1,127 @@
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="http://www.forbes.com/sites/quora/2016/09/23/what-are-the-differences-between-ai-machine-learning-nlp-and-deep-learning/#4f981bbb36f0" style="color: #3498DB; text-decoration: none;">
+            What is your biggest complishment?
+            </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" href="http://www.forbes.com/sites/quora/2016/09/23/what-are-the-differences-between-ai-machine-learning-nlp-and-deep-learning/#4f981bbb36f0" src="https://cdn.recast.ai/newsletter/186.jpg"></mj-image>
+        <mj-text>
+          <p style="font-size: 14px;"> So many big words in a booming market, let's take a step back and redefine which is what, and which does what. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image height="300px" width="377.5px" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/EMAIL-2016-03-26%20at%202.56.53%20PM.png"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
+         <h3 style="font-weight: bold">
+              <a href="https://github.com/HansUXdev/inky-orbit" style="color: #3498DB; text-decoration: none">
+              Inky Orbit 
+              </a>
+          </h3>
+        </mj-text>
+        <mj-text color="#525252">
+          The original source code came from 
+          <a href="http://freshinbox.com/resources/tools/carousel/">fresh inbox</a>. But I did an entire Built front-end websites using foundation 6 alpha, nation builder and WordPress.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> 
+            <a href="https://www.cfss.com/" style="color: #3498DB; text-decoration: none">
+              Child and Family Support Services (CFSS)
+            </a> 
+          </h3>
+          <p style="font-size: 14px">
+          I worked both on the front-end and backend with cakePhp 2 and smarty templates to built the psychiatric evaluation for printable pdf's.
+          This meant I had to code my own css grid from scratch that worked both on the web and stayed consistant when you printed the document.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://cdn.recast.ai/newsletter/183.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> 
+          <a href="https://sun.digital/" style="color: #3498DB; text-decoration: none">
+            SUN Digital
+            </a> 
+          </h3>
+          <p style="font-size: 14px">As a developer, should you use modules or code this bit of feature by yourself? Let's find out.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://cdn.recast.ai/newsletter/183.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> 
+            <a href="https://www.mifamiliavota.org/" style="color: #3498DB; text-decoration: none">
+              mi familia vota
+            </a> 
+          </h3>
+          <p style="font-size: 14px">As a developer, should you use modules or code this bit of feature by yourself? Let's find out.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://cdn.recast.ai/newsletter/183.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> 
+            <a href="https://www.mifamiliavota.org/" style="color: #3498DB; text-decoration: none">
+              https://onearizona.org/
+            </a> 
+          </h3>
+          <p style="font-size: 14px">As a developer, should you use modules or code this bit of feature by yourself? Let's find out.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://cdn.recast.ai/newsletter/183.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> 
+            <a href="/" style="color: #3498DB; text-decoration: none">
+              Reginaldbolding.com
+            </a> 
+          </h3>
+          <p style="font-size: 14px">As a developer, should you use modules or code this bit of feature by yourself? Let's find out.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://cdn.recast.ai/newsletter/183.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> 
+            <a href="https://twitter.com/renewchange" style="color: #3498DB; text-decoration: none">
+              RENEW Change
+            </a> 
+          </h3>
+          <p style="font-size: 14px">
+          CO-hoots hackathon. Used WordPress.
+          As a developer, should you use modules or code this bit of feature by yourself? Let's find out.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://cdn.recast.ai/newsletter/183.png"></mj-image>
+      </mj-column>
+    </mj-section>
