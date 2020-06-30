@@ -31,28 +31,33 @@
     <mj-section background-color="#ffffff" vertical-align="top" >
       <mj-column vertical-align="top" width="33.33333333333333%">
         <mj-image src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zoho_Mail-256.png" alt="EMAIL" width="50px"></mj-image>
-        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="20px"><span style="font-size: 14px; color: #e85034"> Email Development</span>
+        <mj-text align="center" color="#9da3a3" font-size="14px" padding-bottom="30px" padding-top="20px">
+        <span style="font-size: 18px; color: #e85034"> Email Development</span>
         <br><br>
-        I have a good amount of experiance with email and my "weakest" points are only growing opportunities. My strengths out weight them massively, because I've worked on a few email campaigns in the past and I built a pure css carousel as an Open Source Plugin.
+          <p style="font-size:14px;">
+            I have a good amount of experiance with email and my "weakest" points are only growing opportunities. My strengths out weight them massively, because I've worked on a few email campaigns in the past and I built a pure css carousel as an Open Source Plugin.
+          </p>
         </mj-text>
       </mj-column>
 
       <mj-column vertical-align="top" width="33.33333333333333%">
         <mj-image src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Internet_Explorer_10%2B11_computer_icon.png" alt="" width="50px"></mj-image>
-        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="20px">
-        <span style="font-size: 14px; color: #e85034">
+        <mj-text align="center" color="#9da3a3"  padding-bottom="30px" padding-top="20px">
+        <span style="font-size: 18x; color: #e85034">
         Web Development
         </span>
         <br><br>
-        I started doing fron-end web development in 2013. 
-        By 2014, I won 
-        <a href="https://aztechbeat.com/2014/07/startup-weekend-chandler-2014" style="color: #3498DB; text-decoration: none">
-        Startup weekend.
-        </a>
-        In 2015-16 I Freelanced a lot and transitioned to full-stack. 
-        By 2017, I was a TA at a coding bootcamp.
-        In 2018 I worked at GoDaddy.
-        Finally, by 2019, I was teaching kids how to code.
+          <p style="font-size:14px;">
+            I started doing fron-end web development in 2013. 
+            By 2014, I won 
+            <a href="https://aztechbeat.com/2014/07/startup-weekend-chandler-2014" style="color: #3498DB; text-decoration: none">
+            Startup weekend.
+            </a>
+            In 2015-16 I Freelanced a lot and transitioned to full-stack. 
+            By 2017, I was a TA at a coding bootcamp.
+            In 2018 I worked at GoDaddy.
+            Finally, by 2019, I was teaching kids how to code.
+          </p>
         </mj-text>
       </mj-column>
       <!-- Value -->
@@ -60,28 +65,18 @@
         <mj-image src="http://191n.mj.am/img/191n/1t/hm.png" alt="" width="50px"></mj-image>
         
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="20px">
-        <span style="font-size: 14px; color: #e85034">
+        <span style="font-size: 18px; color: #e85034">
         More Value
         </span>
         <br><br>
-        Bottomline, hiring me will give your company the best value dollar.
-        Those are aren't my only technical skills... 
-        So, you'll have to keep reading to see those.
-        <br><br>
-        Also, my real value comes from my professional skills in marketing, analytics, and healthy co-working skills.
+          <p style="font-size:14px;">
+            Bottomline, hiring me will give your company the best value dollar.
+            Those are aren't my only technical skills... 
+            So, you'll have to keep reading to see those.
+            <br><br>
+            Also, my real value comes from my professional skills in marketing, analytics, and healthy co-working skills.
+          </p>
         </mj-text>
       </mj-column>
     </mj-section>
 
-
-<!--  -->
-    <mj-section background-color="#e85034" vertical-align="middle" padding="30px 0">
-      <mj-column width="100%" vertical-align="middle">
-        <mj-text align="center" color="#ffffff" font-size="18px" >
-        <!-- Why Hire Me? -->
-          <p>Without further ado, let's dive into the portfolio...</p>
-        </mj-text>
-        <!-- <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider> -->
-      </mj-column>
-    </mj-section>
-<!--  -->

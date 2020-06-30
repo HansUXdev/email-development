@@ -49,30 +49,29 @@
       <mj-column width="100%">
         <mj-text>
           <p style="font-size: 18px">
-          This is a repository where I'm putting all the email work I can find.
-          I wish I could say I had better examples. But who know what's lurking inside here... 
+          This job is all about email.
           <br><br>
-          Free Email Testing maybe? Maybe an email that's branded to be consistant with a website, including a background video? Who knows...
+          I get it. But, in case my portfolio is lacking... Here are some site's I've built...
           </p>
         </mj-text>
       </mj-column>
 
   <!-- FRONT-END EXAMPLES -->
-        <mj-column width="25%" >
+        <mj-column width="33%" >
           <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
             <h3 style="font-weight: bold">Reginald Bolding</h3>
           </mj-text>
           <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/reginaldbolding.png"></mj-image>
         </mj-column>
         <!-- ONE AZ -->
-        <mj-column width="25%" >
+        <mj-column width="33%" >
           <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
             <h3 style="font-weight: bold">One Arizona</h3>
           </mj-text>
           <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/OneAZ.png"></mj-image>
         </mj-column>
 
-        <mj-column width="25%" >
+        <mj-column width="33%" >
           <!-- SUN -->
           <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
             <h3 style="font-weight: bold">Self Us Now</h3>
@@ -81,35 +80,20 @@
         </mj-column>
 
         <!-- BOLDING -->
-        <mj-column width="25%" >
+        <!-- <mj-column width="25%" >
           <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
             <h3 style="font-weight: bold">Wedding Site</h3>
           </mj-text>
           <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://github.com/HansUXdev/email-development/blob/master/assets/work/web/wedding-Front-End.gif?raw=true"></mj-image>
-          <!-- RENEW -->
           <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
             <h3 style="font-weight: bold">RENEW Change</h3>
           </mj-text>
           <mj-image width="100px" href="https://github.com/HansUXdev/email-development/tree/master/assets/work/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/renewChange.png"></mj-image>
-        </mj-column>
+        </mj-column> -->
 
 </mj-section>
   <!-- CENTER PIECE -->
-    <mj-section background-color="#F5F5F5" >
-      <mj-column>
-        <mj-image height="300px" width="377.5px" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/React-Native.gif?raw=true"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
-         <h3 style="font-weight: bold">
-              REACT
-          </h3>
-        </mj-text>
-        <mj-text color="#525252">
-            I've built a few things in react such as a reacti-native todo app, a site converted from jQuery to React and I look forward to doing more with Ionic, Gatsby, etc.
-        </mj-text>
-      </mj-column>
-    </mj-section>
+   <!-- <mj-include path="./react-items.mjml" /> -->
   <!-- END CENTER PIECE -->
 <!--  -->
 
@@ -155,12 +139,12 @@
           <mj-image width="100px" href="https://github.com/HansUXdev/hosting-stuff" src="https://camo.githubusercontent.com/f7d55d0eb686c050623b58ff5ab2775fc0acbbcd/687474703a2f2f672e7265636f726469742e636f2f3077565a4153544963722e676966"></mj-image>
         </mj-column>
         <!-- WordPress -->
-        <mj-column width="25%" >
+        <!-- <mj-column width="25%" >
           <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262" >
             <h3 style="font-weight: bold; font-size: 18px;">WordPress Securtiy</h3>
           </mj-text>
           <mj-image width="100px" href="https://github.com/HansUXdev/BreakWP" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/web/WordPress.png"></mj-image>
-        </mj-column>
+        </mj-column> -->
 
 
         <!-- DOCKER -->
@@ -174,7 +158,7 @@
   <!--  -->
 </mj-section>
   <!-- CENTER PIECE -->
-    <mj-section background-color="#F5F5F5" >
+    <!-- <mj-section background-color="#F5F5F5" >
       <mj-column>
         <mj-image height="300px" width="377.5px" src="https://github.com/HansUXdev/email-development/blob/master/assets/work/web/wedding-Back-End.gif?raw=true"></mj-image>
       </mj-column>
@@ -188,10 +172,10 @@
             This isn't much to look at and that's not the point. The back-end was the focus of this project. Every the admin dashboard was built entirely on foundation sites combined with building blocks and zero custom css. From there I just add forms some AJAX and focused on building out the mognoose schemas for every. 
         </mj-text>
       </mj-column>
-    </mj-section>
+    </mj-section> -->
   <!-- END CENTER PIECE -->
 <!-- END BACK END -->
-    <mj-section>
+    <!-- <mj-section>
       <mj-column width="75%">
         <mj-text> 
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> 
@@ -210,7 +194,7 @@
         </mj-text>
         <mj-image width="100px" href="/" src="https://raw.githubusercontent.com/HansUXdev/email-development/master/assets/work/Screen%20Shot%202020-06-29%20at%201.42.28%20PM.png"></mj-image>
       </mj-column>
-    </mj-section>
+    </mj-section> -->
 
 
   <!-- I worked both on the front-end and backend with cakePhp 2 and smarty templates to built the psychiatric evaluation for printable pdf's.
