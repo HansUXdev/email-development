@@ -1,0 +1,20 @@
+{
+  "name": "email-development",
+  "version": "1.0.0",
+  "description": "Just a repository for me to put any email development related stuff in for future references.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HansUXdev/email-development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HansUXdev/email-development/issues"
+  },
+  "homepage": "https://github.com/HansUXdev/email-development#readme"
+}

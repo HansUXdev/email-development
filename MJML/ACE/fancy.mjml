@@ -10,7 +10,7 @@
   </mj-head> 
   <mj-body background-color="#F2F2F2">
    <mj-wrapper>
-
+ 
   <!-- PRE TEXT -->
     <mj-section padding="10px 0 20px 0">
       <mj-column>
@@ -19,24 +19,24 @@
       </mj-column> 
     </mj-section>
   <!-- NAVBAR -->
-    <mj-include path="./includes/fancy-navbar.mjml" />
+    <mj-include path="../includes/fancy-navbar.mjml" />
 
   <!-- GIF VIDEO BG -->
-  <mj-include path="./sections/ACE-BGgif.mjml" />
+  <mj-include path="../sections/ACE-BGgif.mjml" />
   <!-- END GIF -->
         
   <!-- fitness-->
-  <mj-include path="./includes/getCertified.mjml" />
+  <mj-include path="../includes/getCertified.mjml" />
   <!--  -->
-  <mj-include path="./includes/4xPromo.mjml" />
+  <mj-include path="../includes/4xPromo.mjml" />
 
   <!-- Specialist -->
-    <mj-include path="./sections/ACE-Specialist.mjml" />
+    <mj-include path="../sections/ACE-Specialist.mjml" />
   <!-- Slider -->
-    <mj-include path="./sections/ACE-Slider.mjml" />
+    <mj-include path="../sections/ACE-Slider.mjml" />
   <!-- Get Certified -->
   <!-- Footer -->
-    <mj-include path="./sections/ACE-Footer.mjml" />
+    <mj-include path="../sections/ACE-Footer.mjml" />
 
   </mj-wrapper>
   </mj-body>

@@ -20,9 +20,9 @@
         </mj-column> 
       </mj-section>
       <!-- NAVBAR -->
-      <mj-include path="./includes/navbar.mjml" />
+      <mj-include path="../includes/navbar.mjml" />
       <!-- GIF VIDEO BG -->
-      <mj-include path="./sections/ACE-BGgif.mjml" />
+      <mj-include path="../sections/ACE-BGgif.mjml" />
       <!-- END GIF -->
         
 
@@ -37,9 +37,10 @@
       </mj-section>
 
     <!-- 4x Promo Block -->
-    <mj-include path="./includes/4xPromo.mjml" />
+    <mj-include path="../includes/4xPromo.mjml" />
     
     <!-- Promo -->
+    <!-- Still needs some work with the alignment. -->
       <mj-section background-color="#4abfad"  padding-left="0px" padding-right="0px" padding-top="0px" padding-bottom="0px">
         <mj-column>
           <mj-image width="86px" src="https://acewebcontent.azureedge.net/assets/marquees/2020/06-june/pubs/spectacular/leaderboard-icon.png" href="http://www.facebook.com/arturia2" alt=""></mj-image>
@@ -61,9 +62,9 @@
       </mj-section>
     <!-- END PROMO -->
     <!-- Specialist -->
-        <mj-include path="./sections/ACE-Specialist.mjml" />
+        <mj-include path="../sections/ACE-Specialist.mjml" />
     <!-- Footer -->
-        <mj-include path="./sections/ACE-Footer.mjml" />
+        <mj-include path="../sections/ACE-Footer.mjml" />
   </mj-wrapper>
   </mj-body>
 </mjml>

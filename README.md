@@ -12,9 +12,9 @@ Just a repository for me to put any email development related stuff in for futur
 [MKML Templates](https://mjml.io/templates)
 [foundation Email Templates](https://get.foundation/emails/email-templates.html)
 ## Images
-1. [cloudinary](https://cloudinary.com/) for responsive images on a CDN
+1. [Cloudinary](https://cloudinary.com/) for responsive images on a CDN
 2. [Convert video 2 GIF](https://ezgif.com/video-to-gif)
-3. [image resize](https://red-route.org/code/image-resizing-calculator)
+3. [Image Resize](https://red-route.org/code/image-resizing-calculator)
 ## Testing Email
 [Putsmail](https://putsmail.com/) free but very limited.
 [email preview services](emailpreviewservices.com) cheaper than litmus...
